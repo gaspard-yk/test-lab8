@@ -200,7 +200,7 @@ namespace TestProject1
         [Test]
         public void Testgetfactorial_1()
         {
-            Assert.AreEqual(5, lab1.getfactorial(1), "Testgetfactorial_1");
+            Assert.AreEqual(1, lab1.getfactorial(1), "Testgetfactorial_1");
         }
         [Test]
         public void Testgetfactorial_2()
